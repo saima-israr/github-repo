@@ -1,2 +1,2 @@
-# Python-Programs GitHub Repository - README.md
-This is README.md file of the github repository Python-Programs.
+# github-repo (Python-Programs GitHub Repository) - README.md File
+This is README.md file of the github-repo consisting of Python-Programs.
